@@ -18,8 +18,7 @@
 - 👯 I’m looking to collaborate on **Open Source Projects and Participate in Competitive Programming**
 - 👨‍💻 All of my projects are available at my [GitHub](https://github.com/softhackpro)
 - 💬 What to expect to learn from me: **Python, Linux, Java, Sql, Pentesting, Networking**
-✉️ &nbsp;You can email me at softhack.x64@gmail.com. I'll try to respond as soon as possible!\
-- :happy: Fun fact **I love Gaming <3:gaming:**
+✉️ &nbsp;You can email me at softhack.x64@gmail.com. I'll try to respond as soon as possible!
 
 ![](/.github/colored.png)
 
@@ -30,7 +29,7 @@
 <a href="https://www.linkedin.com/in/abhishek-kumar-340194181/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:softhack.x64@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://www.hackerrank.com/softhack_x64"><img src="https://img.shields.io/badge/-HackerRank-E4405F?style=flat&logo=HackerRank&logoColor=white"/></a> &nbsp;
-<a href="https://auth.geeksforgeeks.org/user/softhackx64"><img src="https://img.shields.io/badge/-GeeksforGeeks-E4405F?style=flat&logo=GeeksforGeeks&logoColor=white"/></a> &nbsp;)
+<a href="https://auth.geeksforgeeks.org/user/softhackx64"><img src="https://img.shields.io/badge/-GeeksforGeeks-E4405F?style=flat&logo=GeeksforGeeks&logoColor=white"/></a> &nbsp;
 
 ![](/.github/colored.png)
 
@@ -44,18 +43,18 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python          		    █████████████████▓░░░░░░░   70 %
-Java            		    ███████████████▓░░░░░░░░░   65 %
-C/c++           		    ███████████▓░░░░░░░░░░░░░   45 %
-Data Structure  		    █████████████▓░░░░░░░░░░░   55 %
-Algorithm		 		        ███████████▓░░░░░░░░░░░░░   45 % 
-Problem Solving 		    ████████▓░░░░░░░░░░░░░░░░   30 %        
-Linux				 		        ███████████▓░░░░░░░░░░░░░   45 %   
-HTML            		    ████████▓░░░░░░░░░░░░░░░░   30 % 
+Python                  █████████████████▓░░░░░░░   70 %
+Java                    ███████████████▓░░░░░░░░░   65 %
+C/c++                   ███████████▓░░░░░░░░░░░░░   45 %
+Data Structure          █████████████▓░░░░░░░░░░░   55 %
+Algorithm               ███████████▓░░░░░░░░░░░░░   45 % 
+Problem Solving         ████████▓░░░░░░░░░░░░░░░░   30 %        
+Linux                   ███████████▓░░░░░░░░░░░░░   45 %   
+HTML                    ████████▓░░░░░░░░░░░░░░░░   30 % 
 Android Devlopment      █████████▓░░░░░░░░░░░░░░░   35 %
-Php        		 		      █████▓░░░░░░░░░░░░░░░░░░░   25 % 
-XML						          ████▓░░░░░░░░░░░░░░░░░░░░   20 % 
-Django					        ████▓░░░░░░░░░░░░░░░░░░░░   20 %
+Php                     █████▓░░░░░░░░░░░░░░░░░░░   25 % 
+XML                     ████▓░░░░░░░░░░░░░░░░░░░░   20 % 
+Django                  ████▓░░░░░░░░░░░░░░░░░░░░   20 %
 Shell Scripting         ░░░░░░░░░░░░░░░░░░░░░░░░░   00 % 
 ```
 <!--END_SECTION:waka-->
