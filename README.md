@@ -3,7 +3,7 @@
 </p>
 <br>
 
-<h1 align="center">Hi there 👋  I'm Abhishek Kumar🤟</h1>
+<h1 align="center">Hi there 👋  I'm Renaissance🤟</h1>
 <h3 align="center">An enthusiastic programmer and pentester who loves to explore, automate, break, learn, and try to hack things!<br> I have completed BCA with 8.2 CGPA</h3>
 
 
@@ -13,7 +13,7 @@
 ![](/.github/colored.png)
 
 - 🔭 I’m currently working on **#GeeksforGeeks for Coding Pratice**
-- 🌱 I’m currently learning **Django & Django**
+- 🌱 I’m currently learning **FastApi**
 - 🌱 I’m currently learning **Linux Command Line & Shell Scripting, Pentesting**
 - 👯 I’m looking to collaborate on **Open Source Projects and Participate in Competitive Programming**
 - 👨‍💻 All of my projects are available at my [GitHub](https://github.com/softhackpro)
@@ -44,18 +44,15 @@
 
 ```text
 Python                  █████████████████▓░░░░░░░   70 %
-Java                    ███████████████▓░░░░░░░░░   65 %
-C/c++                   ███████████▓░░░░░░░░░░░░░   45 %
+JavaScript              █████████████████████▓░░░   90 %
+React Native            ████████████████████▓░░░░   85 %
+TypeScript              ███████████████████▓░░░░░   80 %
 Data Structure          █████████████▓░░░░░░░░░░░   55 %
 Algorithm               ███████████▓░░░░░░░░░░░░░   45 % 
 Problem Solving         ████████▓░░░░░░░░░░░░░░░░   30 %        
 Linux                   ███████████▓░░░░░░░░░░░░░   45 %   
 HTML                    ████████▓░░░░░░░░░░░░░░░░   30 % 
 Android Devlopment      █████████▓░░░░░░░░░░░░░░░   35 %
-Php                     █████▓░░░░░░░░░░░░░░░░░░░   25 % 
-XML                     ████▓░░░░░░░░░░░░░░░░░░░░   20 % 
-Django                  ████▓░░░░░░░░░░░░░░░░░░░░   20 %
-Shell Scripting         ░░░░░░░░░░░░░░░░░░░░░░░░░   00 % 
 ```
 <!--END_SECTION:waka-->
 
