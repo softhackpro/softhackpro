@@ -4,7 +4,7 @@
 <br>
 
 <h1 align="center">Hi there 👋  I'm Renaissance🤟</h1>
-<h3 align="center">An enthusiastic programmer and pentester who loves to explore, automate, break, learn, and try to hack things!<br> I have completed BCA with 8.2 CGPA</h3>
+<h3 align="center">An enthusiastic programmer and pentester who loves to explore, automate, break, learn, and try to hack things! </h3>
 
 
 
