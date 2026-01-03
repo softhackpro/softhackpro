@@ -1,71 +1,153 @@
 <p align="center">
-<img alt="GIF" src="https://raw.githubusercontent.com/gaurav-kabra-official/gaurav-kabra-official/master/coding.gif" width = 250/>
+  <img src="https://raw.githubusercontent.com/gaurav-kabra-official/gaurav-kabra-official/master/coding.gif" width="260" alt="coding"/>
 </p>
-<br>
 
-<h1 align="center">Hi there 👋  I'm Renaissance🤟</h1>
-<h3 align="center">An enthusiastic programmer and pentester who loves to explore, automate, break, learn, and try to hack things! </h3>
+<h1 align="center">Hi 👋, I'm Roshan Kumar</h1>
+<h3 align="center">
+Product Engineer • Automation Architect • AI Integrator
+</h3>
 
+<p align="center">
+  <i>
+    I design systems that scale, automate workflows, and turn ideas into production-ready platforms.
+  </i>
+</p>
 
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=0xtraw" alt="0xtraw" /> </p>
-
-![](/.github/colored.png)
-
-- 🔭 I’m currently working on **#GeeksforGeeks for Coding Pratice**
-- 🌱 I’m currently learning **FastApi**
-- 🌱 I’m currently learning **Linux Command Line & Shell Scripting, Pentesting**
-- 👯 I’m looking to collaborate on **Open Source Projects and Participate in Competitive Programming**
-- 👨‍💻 All of my projects are available at my [GitHub](https://github.com/softhackpro)
-- 💬 What to expect to learn from me: **Python, Linux, Java, Sql, Pentesting, Networking**
-✉️ &nbsp;You can email me at softhack.x64@gmail.com. I'll try to respond as soon as possible!
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=roshankumar&style=flat-square" />
+</p>
 
 ![](/.github/colored.png)
 
+## 🚀 About Me
 
-### 📫 &nbsp; How to reach me:
+I’m a **full-stack product engineer** with strong expertise in **web, mobile, automation, and AI-driven systems**.
 
+I work at the intersection of **software architecture, workflow automation, cloud infrastructure, and AI integrations**, building real-world products — not just demos.
 
-<a href="https://www.linkedin.com/in/abhishek-kumar-340194181/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:softhack.x64@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://www.hackerrank.com/softhack_x64"><img src="https://img.shields.io/badge/-HackerRank-E4405F?style=flat&logo=HackerRank&logoColor=white"/></a> &nbsp;
-<a href="https://auth.geeksforgeeks.org/user/softhackx64"><img src="https://img.shields.io/badge/-GeeksforGeeks-E4405F?style=flat&logo=GeeksforGeeks&logoColor=white"/></a> &nbsp;
+🎓 **Graduate — Information Technology**  
+St. Xavier’s College  
+
+💡 I believe in:
+- Automation over repetition  
+- Systems over scripts  
+- Products over projects  
 
 ![](/.github/colored.png)
 
-<h3 align="left">Skillsets 🚀:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>
+## 🧠 What I Build
 
-[![](/.github/colored.png)](#installation)
+- 🌐 **Scalable Web Platforms**
+  - E-commerce systems
+  - Social media platforms
+  - NGO & community portals
+  - Dating & gaming platforms
 
-### Stats
+- 📲 **Mobile Applications**
+  - Flutter apps
+  - React Native apps
+  - Cross-platform production builds
 
-<!--START_SECTION:waka-->
+- 🤖 **Automation & AI Systems**
+  - Email automation pipelines
+  - WhatsApp chatbots (n8n + AI)
+  - Telegram bots
+  - AI-powered assistants using:
+    - ChatGPT
+    - DeepSeek
+    - Gemini
 
-```text
-Python                  █████████████████▓░░░░░░░   70 %
-JavaScript              █████████████████████▓░░░   90 %
-React Native            ████████████████████▓░░░░   85 %
-TypeScript              ███████████████████▓░░░░░   80 %
-Data Structure          █████████████▓░░░░░░░░░░░   55 %
-Algorithm               ███████████▓░░░░░░░░░░░░░   45 % 
-Problem Solving         ████████▓░░░░░░░░░░░░░░░░   30 %        
-Linux                   ███████████▓░░░░░░░░░░░░░   45 %   
-HTML                    ████████▓░░░░░░░░░░░░░░░░   30 % 
-Android Devlopment      █████████▓░░░░░░░░░░░░░░░   35 %
-```
-<!--END_SECTION:waka-->
+- ☁️ **Cloud & Infrastructure**
+  - AWS (compute, storage, scaling)
+  - Cloudflare (security, DNS, CDN)
+  - Backblaze (cost-efficient storage)
+  - Deployment & optimization strategies
 
-<h1 align="center">Github Stats</h1>
+![](/.github/colored.png)
 
-<div align="center">
-  
-[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=softhackpro&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
+## 🧩 Tech Stack
 
- </div>
+### Frontend
+- React.js
+- Next.js
+- Flutter
+- React Native
+- Tailwind CSS
 
-<img align="left" alt="Abhishek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=softhackpro&&show_icons=true&theme=dark" width="50%" />
-<img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=softhackpro&layout=compact&theme=dark" width="46%" />
-<br>
-<img src="https://activity-graph.herokuapp.com/graph?username=softhackpro&theme=xcode">
+### Backend
+- Node.js (Express, Nest)
+- Laravel (PHP)
+- REST & API-first design
+- Authentication & role systems
 
+### Databases
+- MongoDB
+- MySQL
+- PostgreSQL
+- Redis
+
+### Automation & AI
+- n8n workflows
+- AI API orchestration
+- Prompt engineering
+- Bot logic & integrations
+
+### Cloud & DevOps
+- AWS
+- Cloudflare
+- Backblaze
+- CI/CD pipelines
+- Server hardening & optimization
+
+![](/.github/colored.png)
+
+## 🧠 Current Focus
+
+🔭 Building **Encleadus**  
+> A **website & business automation platform** inspired by **Odoo**, focused on:
+- Modular architecture
+- Automated workflows
+- AI-assisted operations
+- Faster digital transformation for businesses
+
+🌱 Deepening expertise in:
+- System design
+- AI-native product development
+- High-availability infrastructure
+
+![](/.github/colored.png)
+
+## 📫 Let’s Connect
+
+<a href="mailto:your-email@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+</a>&nbsp;
+<a href="https://www.linkedin.com">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+</a>&nbsp;
+<a href="https://github.com/yourusername">
+  <img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white"/>
+</a>
+
+![](/.github/colored.png)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=highcontrast"/>
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark"/>
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=yourusername&theme=xcode"/>
+</p>
+
+![](/.github/colored.png)
+
+<p align="center">
+  <b>⚙️ Building systems that work while you sleep.</b>
+</p>
